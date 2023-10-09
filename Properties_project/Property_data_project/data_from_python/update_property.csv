@@ -1,0 +1,281 @@
+"MyUnknownColumn";"MyUnknownColumn_[0]";"Project_name";"Area_In_City";"Developer";"Possesion_Details";"3BHK_Carpet";"2BHK_Carpet";"Ratings";"2BHK_Prices";"3BHK_Prices"
+0;0;"Pristine Allure";"Kharadi";"Pristine Properties";"Possession in 2025";"810 - 1227 sqft";"746 - 957 sqft";7.0;8170000.0;9000000.0
+1;1;"Sai Aura";"Pimple Saudagar, Pimpri Chinchwad";"Legacy Lifespaces LLP";"Possession in 2026";"905 - 1040 sqft";"711 - 805 sqft";7.0;10200000.0;13000000.0
+2;2;"Godrej Serene";"Mamurdi, Dehu Road";"Godrej Properties";"Possession in 2026";"1108 - 1405 sqft";"823 - 1005 sqft";1.0;4820000.0;6820000.0
+3;3;"The Canary";"Balewadi";"Kunal Group";"Possession in 2025";"869 - 890 sqft";"1662 - 2500 sqft";10.0;8680000.0;10000000.0
+4;4;"Rohan Ekam";"Balewadi";"Rohan Builders &amp; Developers Pvt. Ltd.";"Possession in 2027";"1844 - 2158 sqft";"1046 - 1386 sqft";8.0;14500000.0;21000000.0
+5;5;"Geras Island of Joy";"Wagholi";"Gera Developments Pvt. Ltd.";"Possession in 2026";"928 - 1299 sqft";"676 - 895 sqft";5.0;29000000.0;11000000.0
+6;6;"Godrej Emerald Waters";"Pimpri";"Godrej Properties";"Possession in 2027";"790 - 800 sqft";"1513 - 1673 sqft";6.0;13400000.0;23600000.0
+7;7;"Adi Amma Insperia";"Rahatani";"J N Realty and Homes";"Possession in 2026";"1790 - 1800 sqft";"990 - 1335 sqft";2.0;7540000.0;10500000.0
+8;8;"Elite Amara";"Aundh";"Elite Builders";"Possession in 2024";"1088 - 1093 sqft";"744 - 866 sqft";8.0;17100000.0;11500000.0
+9;9;"Amanora Arbano Towers";"Hadapsar";"Amanora Park Town";"Possession in 2028";"742 - 866 sqft";"1079 - 1092 sqft";9.0;14500000.0;26000000.0
+10;10;"Kohinoor Famville";"Maan";"Kohinoor Group";"Possession in 2028";"702 - 792 sqft";"1085 - 1447 sqft";7.0;9720000.0;14100000.0
+11;11;"Nirman Cosmopolis";"Tathawade Pimpri Chinchwad";"Nirman Greens";"Possession in 2027";"817 - 825 sqft";"927 - 1071 sqft";10.0;20800000.0;6500000.0
+12;12;"Shriram Nysa";"Dhanori";"Shriram Developers";"Possession in 2025";"1460 - 1475 sqft";"1064 - 1207 sqft";2.0;9650000.0;14800000.0
+13;13;"Nyati Emerald";"Baner";"Nyati Group";"Possession in 2027";"1213 - 1218 sqft";"838 - 850 sqft";10.0;23100000.0;6500000.0
+14;14;"24K Altura";"Baner";"Kolte Patil Developers Ltd.";"Possession in 2028";"1702 - 2200 sqft";"1141 - 1702 sqft";0.0;8500000.0;8900000.0
+15;15;"Mangalam Life Park";"Moshi";"Mangalam Landmark";"Possession in 2025";"800 - 910 sqft";"562 - 695 sqft";9.0;11500000.0;15200000.0
+16;16;"Hues Of Sky";"Ghorpadi";"Bramhacorp Ltd.";"Possession in 2026";"1246 - 1616 sqft";"712 - 1110 sqft";9.0;8200000.0;10000000.0
+17;17;"Palladio Balewadi Central Phase 1";"Balewadi";"Vilas Javdekar Developers";"Possession in 2027";"1400 - 1650 sqft";"1100 - 1190 sqft";9.0;14500000.0;15500000.0
+18;18;"Platinum Towers";"Manjri, Manjri Budruk";"Samarth Landmarks";"Possession in 2027";"760 - 769 sqft";"504 - 511 sqft";6.0;22000000.0;3890000.0
+19;19;"Mangalam Melizma";"Kiwale, Dehu Road";"Mangalam Landmarks";"Possession in 2026";"838 - 980 sqft";"703 - 902 sqft";8.0;5610000.0;14700000.0
+20;0;"Boston";"Charholi BK";"Pride World City";"Possession in 2026";"631  sqft";"531  sqft";5.0;3980000.0;4900000.0
+21;1;"Kanak Residency Phase 2";"Kiwale, Dehu Road";"Sai Siddha Associates";"Possession in 2026";"940  sqft";"635 - 801 sqft";0.0;4900000.0;8000000.0
+22;2;"Vivanta Next";"Tathawade Pimpri Chinchwad";"Shree Sonigara Punamiya Developers";"Possession in 2026";"897  sqft";"741 - 743 sqft";2.0;6000000.0;7500000.0
+23;3;"Infinity Vatika";"Shikrapur";"Vivek Bidgar Associates";"Possession in 2027";"820 - 1007 sqft";"750 - 839 sqft";3.0;8400000.0;9200000.0
+24;4;"Godrej Urban Retreat";"Manjari Khurd";"Godrej Properties";"Possession in 2023";"891 - 895 sqft";"721 - 727 sqft";5.0;5170000.0;6290000.0
+25;5;"Majestique Rhythm County";"Handewadi";"Majestique Landmarks";"Possession in 2026";"1900 - 2200 sqft";"1438  sqft";5.0;20900000.0;27500000.0
+26;6;"Livience Aleenta";"Pashan";"Livience Lifespace Private Limited";"Possession in 2027";"840  sqft";"822 - 881 sqft";9.0;8550000.0;7900000.0
+27;7;"Elina Liva";"NIBM Annexe Area";"CHAPHALKAR KARANDIKAR DEVELOPERS";"Possession in 2023";"722 - 790 sqft";"1027 - 1115 sqft";7.0;9700000.0;7200000.0
+28;8;"L Axis";"Moshi";"Pharande Spaces";"Possession in 2026";"753  sqft";"998 - 999 sqft";3.0;9800000.0;4400000.0
+29;9;"57 Elevate";"Wakad";"Aishwaryam Group and Sanskruti Developers and Avneesh Reality";"Possession in 2027";"1241 - 1267 sqft";"850 - 863 sqft";9.0;7200000.0;12900000.0
+30;10;"Mayuri Adhinathpuram";"Undri";"Mayuri Landmarks LLP";"Possession in 2026";"800  sqft";"767  sqft";7.0;5800000.0;8400000.0
+31;11;"Tamara Phase 2";"Rahatani";"Goldfinger Kataria Urban Developments";"Possession in 2025";"1363  sqft";"1062  sqft";4.0;11000000.0;28700000.0
+32;12;"Sai Bliss ";"Punawale, Pimpri Chinchwad";"Rainbow Housing";"Possession in 2026";"1363  sqft";"1062  sqft";4.0;11000000.0;28700000.0
+33;13;"Sunrise Tower";"Nigdi, Pimpri Chinchwad";"V Top Spaces Pvt Ltd";"Possession in 2024";"1363  sqft";"1062  sqft";8.0;11000000.0;28700000.0
+34;14;"Mitrakunj ";"Parvati Gaon, Parvati Darshan";"Rising Associates";"Possession in 2025";"1363  sqft";"1062  sqft";2.0;11000000.0;28700000.0
+35;15;"V Top Valonia";"Punawale, Pimpri Chinchwad";"Soham Shivam Developers";"Possession in 2026";"1363  sqft";"1062  sqft";7.0;11000000.0;28700000.0
+36;0;"Balaji Park";"Ambale Gaon";"Gurukrupa Developers";"Possession in 2023";"939 - 1244 sqft";"796 - 888 sqft";6.0;7750000.0;9300000.0
+37;1;"Sai Empire G";"Wadmukhwadi";"Sai Angan Projects LLP";"Possession in 2023";"1140 - 1155 sqft";"881 - 950 sqft";2.0;8800000.0;11400000.0
+38;2;"Asmita Swapnapurti ";"Jalochi";"Asmita Enterprises  ";"Possession in 2026";"1066 - 1471 sqft";"762 - 1067 sqft";10.0;8600000.0;12800000.0
+39;3;"P G Ira Enclave";"Hadapsar";"Reehe Valley Enterprises";"Possession in 2024";"838 - 860 sqft";"1793  sqft";9.0;21200000.0;8000000.0
+40;4;"Vismaya";"Khamboli";"SIDDHI DEVELOPERS";"Possession in 2024";"675  sqft";"1213 - 1225 sqft";0.0;12400000.0;7100000.0
+41;5;"Siddhi Nakshatra";"Chakan";"Kohinoor Group";"Possession in 2028";"850 - 1050 sqft";"750 - 786 sqft";4.0;5550000.0;7500000.0
+42;6;"Kohinoor Westview Reserve";"Punawale, Pimpri Chinchwad";"Bivega Realty";"Possession in 2025";"1074  sqft";"743 - 824 sqft";10.0;8000000.0;8700000.0
+43;7;"The Silver Altair";"Ravet, Pimpri Chinchwad";"VTP Realty";"Possession in 2027";"1074  sqft";"743 - 824 sqft";6.0;8000000.0;8700000.0
+44;8;"Flamante By VTP Luxe Phase 1";"Kharadi";"Nyati Group";"Possession in 2026";"1074  sqft";"743 - 824 sqft";8.0;8000000.0;8700000.0
+45;9;"NYATI EQUINOX";"Bavdhan";"Ravima Ventures";"Possession in 2024";"1074  sqft";"743 - 824 sqft";5.0;8000000.0;8700000.0
+46;10;"Newton Homes Hadapsar Phase III";"Hadapsar";"Bramha Realty &amp; Infrastructure";"Possession in 2026";"1074  sqft";"743 - 824 sqft";1.0;8000000.0;8700000.0
+47;11;"Bramha SkyCity";"Dhanori";"R R Lunkad Landmarks LLP &amp; Nemichand Bhandari Associates";"Possession in 2024";"1074  sqft";"743 - 824 sqft";5.0;8000000.0;8700000.0
+48;12;"RR Lunkad 66 Avenue";"Pimple Nilakh, Pimpri Chinchwad";"Kolte Patil Developers Ltd.";"Possession in 2025";"1074  sqft";"743 - 824 sqft";4.0;8000000.0;8700000.0
+49;0;"Alpine Astonia";"Kiwale, Dehu Road";"Alpine Landmarks LLP";"Possession in 2025";"971  sqft";"715  sqft";7.0;5400000.0;6630000.0
+50;1;"Vertillas";"Kharadi";"Spectrum Properties";"Possession in 2024";"1555 - 1560 sqft";"1112 - 1171 sqft";2.0;11500000.0;17000000.0
+51;2;"Conclave";"Shivajinagar";"Veda Ventures";"Possession in 2024";"770  sqft";"476 - 750 sqft";4.0;10700000.0;6300000.0
+52;3;"The Cove";"Bhugaon, Bavdhan";"Paranjape Schemes Construction Ltd.";"Possession in 2028";"930 - 1172 sqft";"709 - 809 sqft";4.0;6300000.0;8690000.0
+53;4;"ALOHA";"Wakad";"Rohit Infra";"Possession in 2023";"661 - 712 sqft";"542 - 772 sqft";8.0;4520000.0;8900000.0
+54;5;"Puneville";"Punawale, Pimpri Chinchwad";"Pharande Spaces";"Possession in 2029";"805 - 833 sqft";"996 - 1140 sqft";7.0;13000000.0;7200000.0
+55;6;"Ganesh Siddhi Phase 3";"Chikhali Pimpri Chinchwad";"SB Patil Group";"Possession in 2026";"1659  sqft";"1056 - 1196 sqft";0.0;9800000.0;15500000.0
+56;7;"Legacy Kairos";"Rahatani";"Legacy Lifespaces LLP";"Possession in 2027";"818 - 992 sqft";"2300  sqft";1.0;22500000.0;6920000.0
+57;8;"LODHA Pune NIBM Project";"NIBM Road";"Lodha Group";"Possession in 2023";"1112 - 1199 sqft";"980 - 1200 sqft";1.0;8170000.0;18700000.0
+58;9;"Parvatara Phase 2";"Kiwale, Dehu Road";"Saakshi Constructions Pvt. Ltd.";"Possession in 2027";"836 - 850 sqft";"1400  sqft";1.0;14500000.0;6900000.0
+59;10;"Avaneesh";"Nigdi, Pimpri Chinchwad";"KLS Constructions";"Possession in 2026";"690 - 802 sqft";"1060 - 1176 sqft";1.0;8900000.0;4990000.0
+60;11;"The PWC Towers";"Bhugaon, Bavdhan";"SKYi Developers";"Possession in 2026";"952  sqft";"623 - 809 sqft";2.0;5300000.0;8490000.0
+61;12;"Life Republic Aros";"Hinjawadi";"Kolte Patil Developers Ltd.";"Possession in 2026";"500 - 650 sqft";"681  sqft";1.0;5740000.0;6500000.0
+62;13;"Laxmi Emerald";"Lohegaon";"Laxmi Group";"Possession in 2026";"500 - 650 sqft";"681  sqft";1.0;5740000.0;6500000.0
+63;14;"Vaanya";"Moshi";"Pharande Spaces";"Possession in 2026";"500 - 650 sqft";"681  sqft";0.0;5740000.0;6500000.0
+64;15;"Ganesh Siddhi Phase 2";"Chikhali Pimpri Chinchwad";"SB Patil Group";"Possession in 2026";"500 - 650 sqft";"681  sqft";9.0;5740000.0;6500000.0
+65;16;"Bramhacorp August Towers";"Wadgaon Sheri";"Bramhacorp Ltd.";"Possession in 2028";"500 - 650 sqft";"681  sqft";4.0;5740000.0;6500000.0
+66;17;"Intercontinental Swapna Nagari";"Chakan";"Intercontinental Infrastructure Ltd";"Possession in 2026";"500 - 650 sqft";"681  sqft";3.0;5740000.0;6500000.0
+67;18;"HS Privitude";"Punawale, Pimpri Chinchwad";"HS Group";"Possession in 2025";"500 - 650 sqft";"681  sqft";5.0;5740000.0;6500000.0
+68;19;"Kumar Parth Tower";"Baner";"Kumar Properties";"Possession in 2025";"500 - 650 sqft";"681  sqft";6.0;5740000.0;6500000.0
+69;0;"Prestige Elm Park";"Channasandra";"Prestige Estates Projects Ltd.";"Possession in 2026";"1561 - 2004 sqft";"1120 - 1600 sqft";5.0;17000000.0;22000000.0
+70;1;"Soulspring Phase 1";"Hsr Layout";"Svamitva Group";"Possession in 2027";"1617 - 2200 sqft";"1155 - 1700 sqft";1.0;19000000.0;25800000.0
+71;2;"Earthen Ambience";"Sarjapura Attibele Road";"Evantha Developers";"Possession in 2025";"2200 - 2690 sqft";"2100 - 2357 sqft";7.0;17000000.0;20600000.0
+72;3;"Sobha Galera";"Huskur";"SOBHA Ltd.";"Possession in 2026";"1181 - 2400 sqft";"3009  sqft";7.0;6060000.0;1710000.0
+73;4;"Definer Upper Deck";"Budigere Cross";"Definer Group";"Possession in 2025";"900 - 2400 sqft";"600 - 2000 sqft";8.0;3420000.0;1200000.0
+74;5;"Canterbury Orchards 2";"Nandi Hills";"Vishuddh Properties";"Possession in 2025";"1654 - 3254 sqft";"1200 - 1500 sqft";4.0;26900000.0;34500000.0
+75;6;"MJR Opus";"Sarjapur Road";"MJR Builders Pvt. Ltd.";"Possession in 2024";"750 - 940 sqft";"1806 - 4220 sqft";1.0;7200000.0;8100000.0
+76;7;"Vaishnavi Jasmine";"Kanakapura Road";"Vaishnavi Developers";"Possession in 2024";"872 - 990 sqft";"1047 - 1340 sqft";1.0;6450000.0;9390000.0
+77;8;"Sky Line Boulevard";"Devanahalli";"Maharshi Developers";"Possession in 2024";"1724  sqft";"1226 - 1688 sqft";1.0;17000000.0;15900000.0
+78;9;"MR Hill View Garden";"Hoskote Chintamani Road";"Annapurna Max Properties OPC Pvt. Ltd.";"Possession in 2024";"3421 - 3441 sqft";"2300  sqft";7.0;30000000.0;37000000.0
+79;10;"Soulace By Modern Spaaces";"Sarjapur Road";"Modern Spaaces";"Possession in 2025";"2108 - 2200 sqft";"2413 - 2500 sqft";8.0;21800000.0;1320000.0
+80;11;"Abhee Kings Court";"Sarjapur Road";"Abhee Ventures Pvt. Ltd.";"Possession in 2024";"2108 - 2200 sqft";"2413 - 2500 sqft";8.0;21800000.0;1320000.0
+81;12;"Casagrand Keatsway";"Geddalahalli, HBR layout";"Casagrand Builder Pvt. Ltd.";"Possession in 2026";"2108 - 2200 sqft";"2413 - 2500 sqft";4.0;21800000.0;1320000.0
+82;13;"Golden Pearl Phase 2";"Sarjapura";"Global Developers";"Possession in 2024";"2108 - 2200 sqft";"2413 - 2500 sqft";0.0;21800000.0;1320000.0
+83;14;"Sobha Oakshire";"Devanahalli";"SOBHA Ltd.";"Possession in 2025";"2108 - 2200 sqft";"2413 - 2500 sqft";5.0;21800000.0;1320000.0
+84;15;"Gravity Aranya";"Stage 6th Banashankari";"Gravity Homes";"Possession in 2025";"2108 - 2200 sqft";"2413 - 2500 sqft";5.0;21800000.0;1320000.0
+85;16;"Gnana Kuteera Phase II";"Devanahalli";"Karnataka State Teachers Employees Welfare Housing Co Operative Society";"Possession in 2024";"2108 - 2200 sqft";"2413 - 2500 sqft";3.0;21800000.0;1320000.0
+86;0;"Mana Verdant";"Jakkur Road";"Mana Projects Pvt. Ltd.";"Possession in 2027";"1008 - 1600 sqft";"739 - 1240 sqft";3.0;8580000.0;10000000.0
+87;1;"Hara North One";"Devanahalli";"Ameliorate Realtors Private Limited";"Possession in 2024";"1395 - 1680 sqft";"1023 - 1329 sqft";0.0;4190000.0;5720000.0
+88;2;"Inspira Petals";"Wilson Garden";"Inspira Builders";"Possession in 2024";"1895 - 2615 sqft";"1720 - 1730 sqft";8.0;21400000.0;24500000.0
+89;3;"SS Brindavanam";"Sarjapur Road";"SS Builders and Developers";"Possession in 2024";"1416 - 1981 sqft";"1200 - 1294 sqft";7.0;12200000.0;15000000.0
+90;4;"Folium By Sumadhura Phase 2";"Whitefield";"Sumadhura Infracon Pvt. Ltd.";"Possession in 2025";"1249 - 1370 sqft";"2717  sqft";4.0;23000000.0;6490000.0
+91;5;"Prestige Lavender Fields";"Varthur";"Prestige Estates Projects Ltd.";"Possession in 2026";"2136 - 2483 sqft";"1339 - 1504 sqft";9.0;6960000.0;16100000.0
+92;6;"AURA";"Sarjapur Road";"SKR Builders and Developers";"Possession in 2024";"3647 - 3680 sqft";"1500 - 2300 sqft";4.0;9000000.0;34400000.0
+93;7;"Sowparnika Life On The Green";"Attibele";"Sowparnika Projects &amp; Infrastructure Pvt. Ltd.";"Possession in 2025";"1105 - 1150 sqft";"4846 - 4851 sqft";7.0;46900000.0;5970000.0
+94;8;"Vishuddh Prakruthi";"Kanakapura Road";"Vishuddh Properties";"Possession in 2024";"950 - 957 sqft";"1285 - 1410 sqft";3.0;6940000.0;6500000.0
+95;9;"SKAV Grande";"Whitefield";"SKAV Developers Pvt. Ltd.";"Possession in 2027";"1298  sqft";"1434 - 1633 sqft";9.0;18500000.0;19900000.0
+96;10;"Abhee Pride";"Chandapura";"Abhee Ventures Pvt. Ltd.";"Possession in 2024";"1940  sqft";"1387 - 2050 sqft";9.0;21300000.0;27500000.0
+97;11;"Canterbury Orchards 1";"Nandi Hills";"Vishuddh Properties";"Possession in 2024";"2010 - 2110 sqft";"2370  sqft";6.0;33600000.0;12100000.0
+98;12;"Purva Bluebelle";"Magadi Main Road";"Puravankara Ltd.";"Possession in 2027";"1377  sqft";"2310 - 2370 sqft";10.0;13800000.0;10100000.0
+99;13;"Godrej Athena";"Indiranagar";"Godrej Properties";"Possession in 2027";"990  sqft";"1846  sqft";1.0;13600000.0;6600000.0
+100;14;"Shriram Esquire";"Koramangala";"Shriram Properties";"Possession in 2027";"990  sqft";"1846  sqft";8.0;13600000.0;6600000.0
+101;15;"Nivara Viento";"Doddaballapur Main Road";"Nivara Group";"Possession in 2024";"990  sqft";"1846  sqft";3.0;13600000.0;6600000.0
+102;16;"Icon Iconest 7";"Bommasandra";"ICON Infra Shelters Pvt. Ltd.";"Possession in 2025";"990  sqft";"1846  sqft";8.0;13600000.0;6600000.0
+103;17;"Casagrand Zaiden";"Uttarahalli Manavarthekaval";"Casagrand Builder Pvt. Ltd.";"Possession in 2025";"990  sqft";"1846  sqft";4.0;13600000.0;6600000.0
+104;18;"Sapthagiri Sandalwoods";"Kadugodi";"Sapthagiri Shelters";"Possession in 2024";"990  sqft";"1846  sqft";10.0;13600000.0;6600000.0
+105;19;"Godrej Elevate";"Whitefield";"Godrej Properties";"Possession in 2027";"990  sqft";"1846  sqft";0.0;13600000.0;6600000.0
+106;0;"Happy Homes Megan";"Phase 1 Electronics City";"Trishul Builders and Promoters";"Possession in 2024";"1160 - 1295 sqft";"1440 - 1446 sqft";1.0;6000000.0;6960000.0
+107;1;"Srivari Forest Breeze";"Uttarahalli Hobli";"Srivari Infrastructures";"Possession in 2024";"1189 - 1335 sqft";"1450 - 1595 sqft";9.0;8700000.0;7130000.0
+108;2;"Garuda Grand";"Hoodi, Hoodi";"Balaji Builders";"Possession in 2024";"3054 - 3901 sqft";"1571 - 1849 sqft";8.0;9420000.0;26400000.0
+109;3;"Divine Meadows";"Sarjapura";"Max Global Developers";"Possession in 2026";"750 - 1220 sqft";"445  sqft";10.0;5400000.0;8500000.0
+110;4;"Brigade Calista Phase 1";"Budigere Cross";"Brigade Group";"Possession in 2027";"1249 - 145152 sqft";"927 - 1760 sqft";2.0;10500000.0;19500000.0
+111;5;"Visista By Vista Spaces Okas";"Yelahanka";"Vista Spaces";"Possession in 2026";"723 - 900 sqft";"1603 - 160300 sqft";9.0;24500000.0;6800000.0
+112;6;"Shriram Solitaire";"Yelahanka New Town";"Shriram Properties Ltd.";"Possession in 2025";"2000 - 2172 sqft";"1240 - 1680 sqft";10.0;7300000.0;12000000.0
+113;7;"Future Aspera";"Chandapura";"Future Infrastructures Pvt. Ltd.";"Possession in 2024";"675 - 1255 sqft";"603 - 810 sqft";2.0;6900000.0;7800000.0
+114;8;"The Poem by Shriram Properties";"Jalahalli, Jalahalli, Outer Ring Road";"Shriram Properties Ltd.";"Possession in 2027";"1070 - 1111 sqft";"870 - 995 sqft";2.0;7010000.0;8500000.0
+115;9;"TG Heritage";"Kanakapura Road";"TG Developers";"Possession in 2026";"1122 - 1525 sqft";"1305 - 1495 sqft";3.0;10200000.0;10000000.0
+116;10;"Mahaveer Grandis";"Phase 7 JP Nagar";"Mahaveer Group";"Possession in 2026";"1367 - 1562 sqft";"1070 - 1213 sqft";8.0;4280000.0;6010000.0
+117;11;"DS MAX Samyak";"Kengeri Hobli Challegatta";"DS MAX Properties Pvt. Ltd.";"Possession in 2026";"1237 - 1425 sqft";"1000 - 1298 sqft";3.0;4500000.0;5570000.0
+118;12;"DS MAX Shresta";"Bellahalli";"DS MAX Properties Pvt. Ltd.";"Possession in 2026";"964 - 1216 sqft";"647 - 684 sqft";8.0;3560000.0;5300000.0
+119;13;"Mahaveer Highlands";"Kengeri";"Mahaveer Group";"Possession in 2026";"586  sqft";"1422 - 1447 sqft";5.0;7820000.0;4300000.0
+120;14;"Brigade Valencia";"Hosur Road";"Brigade Group";"Possession in 2027";"1498 - 1678 sqft";"966 - 1201 sqft";2.0;7000000.0;10800000.0
+121;15;"Govianu Nakshatra";"Vijayanagar";"Govianu Wealth Management Pvt Ltd";"Possession in 2024";"1200 - 1650 sqft";"1800 - 1815 sqft";7.0;12500000.0;6480000.0
+122;16;"Akshara Green City Township Phase 1";"Budigere Cross";"Sheshadri Developers";"Possession in 2024";"1200 - 1500 sqft";"1490 - 2420 sqft";10.0;5290000.0;7800000.0
+123;17;"Century Seasons";"Devanahalli";"Century Real Estate";"Possession in 2023";"1200 - 1500 sqft";"1490 - 2420 sqft";5.0;5290000.0;7800000.0
+124;0;"Century Wintersun";"Yelahanka";"Century Real Estate";"Possession in 2025";"1200 - 1927 sqft";"2800 - 3300 sqft";7.0;28000000.0;1680000.0
+125;1;"BSNL Sirigandha Elite";"Devanahalli";"BSNL Employees And Citizen House Building Co Operative Society Ltd";"Possession in 2026";"600 - 1800 sqft";"892 - 3126 sqft";3.0;2680000.0;2200000.0
+126;2;"Manyata Midlands";"Anekal";"Manyata Developers Pvt Ltd";"Possession in 2027";"2166  sqft";"1238  sqft";7.0;11500000.0;14000000.0
+127;3;"Lavender Meadows";"Sarjapura";"Terrafem Group LLP";"Possession in 2026";"2604 - 3022 sqft";"1785 - 2034 sqft";2.0;16200000.0;23700000.0
+128;4;"Ruchira Park East";"Kannamangala";"Ruchira Projects Pvt. Ltd.";"Possession in 2025";"1373 - 1569 sqft";"1039 - 1258 sqft";0.0;5190000.0;6920000.0
+129;5;"Mahidhara Harmony";"Sarjapur Road";"Mahidhara Projects Private Limited";"Possession in 2024";"995 - 1600 sqft";"689  sqft";9.0;5960000.0;12500000.0
+130;6;"SLV Elanza";"Thanisandra";"SLV Infrastructures";"Possession in 2027";"1585 - 1800 sqft";"1017 - 1839 sqft";9.0;12000000.0;20000000.0
+131;7;"Sobha Sentosa";"Panathur";"SOBHA Ltd.";"Possession in 2026";"1972  sqft";"524 - 850 sqft";2.0;7600000.0;23500000.0
+132;8;"Assetz Bloom &amp; Dell";"Whitefield";"Assetz Property Group";"Possession in 2027";"1450  sqft";"1900 - 2940 sqft";8.0;25000000.0;17000000.0
+133;9;"Prestige Primrose Hills Phase 2";"Kanakapura Road";"Prestige Estates Projects Ltd.";"Possession in 2027";"1450  sqft";"1900 - 2940 sqft";6.0;25000000.0;17000000.0
+134;10;"Radiance Gardenia";"Hennur Main Road";"Radiance Realty Developers India Ltd.";"Possession in 2025";"1450  sqft";"1900 - 2940 sqft";9.0;25000000.0;17000000.0
+135;11;"Geown Oasis Phase 3";"Sarjapura";"Geown Properties Pvt. Ltd.";"Possession in 2024";"1450  sqft";"1900 - 2940 sqft";9.0;25000000.0;17000000.0
+136;12;"Sanjeevini Srushti Srigandha";"Whitefield";"Sanjeevini Group";"Possession in 2026";"1450  sqft";"1900 - 2940 sqft";0.0;25000000.0;17000000.0
+137;13;"Mahaveer Camelia";"Krishnarajapura";"Mahaveer Group";"Possession in 2023";"1450  sqft";"1900 - 2940 sqft";6.0;25000000.0;17000000.0
+138;14;"Siddanth Aartisan";"Kanakapura Road";"SIDDANTH BUILDERS AND DEVELOPERS LLP";"Possession in 2024";"1450  sqft";"1900 - 2940 sqft";7.0;25000000.0;17000000.0
+139;15;"Shree Sri Rama Badavane ";"Anekal";"Shree Developers";"Possession in 2025";"1450  sqft";"1900 - 2940 sqft";2.0;25000000.0;17000000.0
+140;0;"Sri Krishna Kuttera";"Devanahalli";"Charigan Group";"Possession in 2023";"1358  sqft";"1122 - 1271 sqft";5.0;6540000.0;7760000.0
+141;1;"KVG Aster";"Horamavu";"KVG Builders &amp; Developers";"Possession in 2025";"822 - 942 sqft";"572 - 817 sqft";5.0;2460000.0;3540000.0
+142;2;"Pride Sunrise Phase II";"Jigani";"Pride Group";"Possession in 2025";"1246 - 1400 sqft";"961 - 1061 sqft";9.0;3900000.0;5600000.0
+143;3;"ISR Udayam";"Budigere Cross";"ISR Constructions Pvt. Ltd.";"Possession in 2025";"998 - 1350 sqft";"780 - 1117 sqft";3.0;6930000.0;9500000.0
+144;4;"Inspira Tropical Garden";"Electronic City";"Inspira Builders";"Possession in 2024";"714 - 900 sqft";"700 - 1088 sqft";10.0;6360000.0;9000000.0
+145;5;"Macasa Emerald";"Sarjapur Road";"Mana Projects Pvt. Ltd.";"Possession in 2026";"968 - 1200 sqft";"716 - 900 sqft";4.0;4900000.0;6620000.0
+146;6;"GMC Aero Square";"Devanahalli";"Griha Mithra Constructions";"Possession in 2025";"2896 - 4750 sqft";"2395  sqft";6.0;17000000.0;50000000.0
+147;7;"Diamond Blossoms";"Huskur";"Prestige Group";"Possession in 2025";"1265 - 1885 sqft";"970 - 1420 sqft";4.0;7620000.0;9510000.0
+148;8;"Prestige Sanctuary";"Devanahalli";"Ranav Group";"Possession in 2024";"2925  sqft";"2100  sqft";1.0;15600000.0;20400000.0
+149;9;"Ranav Tranquil Haven";"Soukya Road";"Brigade Enterprises Ltd.";"Possession in 2025";"3500 - 3508 sqft";"3276 - 3495 sqft";1.0;24500000.0;64700000.0
+150;10;"Ivory Phase 1 At Brigade Orchards";"Devanahalli";"Bright Wave Projects Pvt. Ltd.";"Possession in 2024";"3500 - 3508 sqft";"3276 - 3495 sqft";1.0;24500000.0;64700000.0
+151;11;"Tulip";"Chandapura";"Address Maker";"Possession in 2023";"3500 - 3508 sqft";"3276 - 3495 sqft";9.0;24500000.0;64700000.0
+152;12;"Classic Canaan";"Devanahalli";"KNS Infrastructure Pvt. Ltd.";"Possession in 2023";"3500 - 3508 sqft";"3276 - 3495 sqft";4.0;24500000.0;64700000.0
+153;13;"KNS Atharva";"Devanahalli";"GKS Builders and Developers";"Possession in 2024";"3500 - 3508 sqft";"3276 - 3495 sqft";7.0;24500000.0;64700000.0
+154;14;"GKS 1000 Woods";"Chandapura";"Mathapathi Construction";"Possession in 2023";"3500 - 3508 sqft";"3276 - 3495 sqft";4.0;24500000.0;64700000.0
+155;15;"Mathapathi Grand Field";"Gunjur";"NR Greenwood Construction Pvt. Ltd.";"Possession in 2023";"3500 - 3508 sqft";"3276 - 3495 sqft";1.0;24500000.0;64700000.0
+156;16;"Nr Rose Wood Estates";"Kempegowda International Airport Road";"Govianu Wealth Management Pvt Ltd";"Possession in 2024";"3500 - 3508 sqft";"3276 - 3495 sqft";0.0;24500000.0;64700000.0
+157;0;"North Woods";"Chikkaballapur";"Living Structures";"Possession in 2023";"640 - 980 sqft";"720 - 3360 sqft";9.0;1800000.0;6400000.0
+158;1;"Adarsh Tropica";"Choodasandra";"Adarsh Group";"Possession in 2027";"1200 - 2045 sqft";"976  sqft";7.0;8000000.0;9500000.0
+159;2;"Casagrand Meridian";"Bhattarahalli";"Casagrand Builder Pvt. Ltd.";"Possession in 2024";"1034 - 1272 sqft";"788 - 805 sqft";7.0;11700000.0;8700000.0
+160;3;"SNN Raj Bay Vista";"Kodichikkanahalli Main Road";"SNN Arjun Builders LLP";"Possession in 2028";"2123  sqft";"1242 - 1763 sqft";4.0;10300000.0;17600000.0
+161;4;"Ma Sarada Upavan";"Bommasandra";"Ma Sarada Constructions";"Possession in 2024";"2500  sqft";"2000 - 2025 sqft";5.0;30000000.0;35000000.0
+162;5;"Govianu Sangam";"Yelahanka";"Govianu Wealth Management Pvt Ltd";"Possession in 2023";"3745 - 3746 sqft";"2762 - 2770 sqft";7.0;38300000.0;52000000.0
+163;6;"Happy Village";"Sarjapur Road";"Cleartitle Properties";"Possession in 2027";"1032 - 1068 sqft";"3891 - 3893 sqft";10.0;40800000.0;6200000.0
+164;7;"Purva Zenium 2";"Kempegowda International Airport Road";"Puravankara Ltd.";"Possession in 2025";"750  sqft";"1248 - 1338 sqft";9.0;7500000.0;6000000.0
+165;8;"GM Govianu";"Seshadripuram";"Govianu Wealth Management Pvt Ltd";"Possession in 2027";"959 - 1087 sqft";"766 - 7881 sqft";8.0;7880000.0;10500000.0
+166;9;"Puravankara Purva Meraki";"Hsr Layout";"Puravankara Ltd.";"Possession in 2024";"1525  sqft";"1265  sqft";10.0;7500000.0;9250000.0
+167;10;"SNN Raj Viviente";"Bannerghatta Main Road";"SNN Raj Corp";"Possession in 2024";"1525  sqft";"1265  sqft";8.0;7500000.0;9250000.0
+168;11;"Bhavisha Bentley Goldberg Phase II";"Sarjapur Road";"Bhavisha Properties";"Possession in 2027";"1525  sqft";"1265  sqft";3.0;7500000.0;9250000.0
+169;12;"Sowparnika Olivia Nest";"Anekal";"Sowparnika Projects &amp; Infrastructure Pvt. Ltd.";"Possession in 2025";"1525  sqft";"1265  sqft";2.0;7500000.0;9250000.0
+170;13;"DSR Green Waters";"Varthur";"DSR Group";"Possession in 2024";"1525  sqft";"1265  sqft";8.0;7500000.0;9250000.0
+171;14;"Vijaya Luxo";"RR Nagar";"Vijaya Enterprises";"Possession in 2025";"1525  sqft";"1265  sqft";1.0;7500000.0;9250000.0
+172;15;"Brigade Oasis";"Devanahalli";"Brigade Enterprises Ltd.";"Possession in 2026";"1525  sqft";"1265  sqft";9.0;7500000.0;9250000.0
+173;0;"Engrace by Modern Spaaces";"Sarjapur Road";"Modern Spaaces";"Possession in 2024";"1530 - 2091 sqft";"1307 - 1337 sqft";5.0;6860000.0;8030000.0
+174;1;"Adithi Elegance";"Gunjur";"Adithi Projects";"Possession in 2024";"1009  sqft";"802  sqft";0.0;5500000.0;8000000.0
+175;2;"Pavani Mirabilia";"Whitefield";"Pavani Group";"Possession in 2025";"843 - 1570 sqft";"664 - 7010 sqft";1.0;7000000.0;8750000.0
+176;3;"Trendsquares Ortus III";"Hebbal";"Trendsquares Constructions";"Possession in 2024";"1000 - 1500 sqft";"780 - 810 sqft";5.0;8150000.0;9180000.0
+177;4;"Sizzle Midtown";"Kaggadasapura, Indira nagar";"Sizzle Properties";"Possession in 2023";"880 - 1250 sqft";"800 - 1200 sqft";1.0;10300000.0;10500000.0
+178;5;"Zen Indraprastha by Pratham";"Yeswanthpur";"Pratham Constructions";"Possession in 2023";"1922 - 2100 sqft";"1120  sqft";1.0;15000000.0;24000000.0
+179;6;"Sobha Insignia";"Bhoganhalli";"SOBHA Ltd.";"Possession in 2026";"1200 - 4200 sqft";"2403  sqft";6.0;1170000.0;19000000.0
+180;7;"Odion Woods By The Lake";"Sarjapur Road";"Odion Builders";"Possession in 2023";"2617 - 2750 sqft";"2259 - 2681 sqft";2.0;21900000.0;2400000.0
+181;8;"Needs 3 project 168";"Horamavu";"DS &amp; JAKS Constructions";"Possession in 2025";"646 - 1150 sqft";"601 - 2400 sqft";10.0;5700000.0;8900000.0
+182;9;"Laasya Canopus";"Bommanahalli";"Laasya Projects Pvt. Ltd.";"Possession in 2024";"633 - 718 sqft";"1100 - 1400 sqft";5.0;6500000.0;9500000.0
+183;10;"SNR Brienz";"Attibele";"SNR Homes";"Possession in 2025";"633 - 718 sqft";"1100 - 1400 sqft";9.0;6500000.0;9500000.0
+184;11;"Anugraha SR Serenity";"Soukya Road";"Anugraha Properties";"Possession in 2026";"633 - 718 sqft";"1100 - 1400 sqft";10.0;6500000.0;9500000.0
+185;12;"BSNL Urban Greens";"Devanahalli";"Bluebell Global Shelters";"Possession in 2023";"633 - 718 sqft";"1100 - 1400 sqft";5.0;6500000.0;9500000.0
+186;13;"SBR Earth and Sky";"Whitefield";"SBR Group";"Possession in 2024";"633 - 718 sqft";"1100 - 1400 sqft";2.0;6500000.0;9500000.0
+187;14;"Pride Vatika Phase 2";"Bannerghatta Main Road";"Pride Group";"Possession in 2026";"633 - 718 sqft";"1100 - 1400 sqft";3.0;6500000.0;9500000.0
+188;15;"Casagrand Hazen";"Gottigere";"Casagrand Builder Pvt. Ltd.";"Possession in 2026";"633 - 718 sqft";"1100 - 1400 sqft";0.0;6500000.0;9500000.0
+189;16;"Brigade Horizon";"Mysore Road";"Brigade Enterprises Ltd.";"Possession in 2024";"633 - 718 sqft";"1100 - 1400 sqft";1.0;6500000.0;9500000.0
+190;0;"Kumari Nautilus";"Koralur";"Kumari Infra Homes Private Limited";"Possession in 2028";"686 - 699 sqft";"2487 - 3314 sqft";1.0;20900000.0;7300000.0
+191;1;"Prestige Serenity Shores";"Whitefield";"Prestige Group";"Possession in 2027";"1399 - 2008 sqft";"1260 - 1294 sqft";8.0;13600000.0;15000000.0
+192;2;"Provident Ecopolitan";"Bagalur";"Provident Housing Ltd.";"Possession in 2027";"600 - 800 sqft";"2667  sqft";8.0;29000000.0;3500000.0
+193;3;"DS Max Sky Sanjeevini";"Tumkur Road";"DS MAX Properties Pvt. Ltd.";"Possession in 2027";"1200 - 1500 sqft";"900 - 1100 sqft";2.0;5500000.0;7500000.0
+194;4;"Sri Balaji Serene";"Yelahanka";"Sri Balaji Structures";"Possession in 2024";"1286 - 1425 sqft";"931 - 1171 sqft";10.0;3260000.0;4500000.0
+195;5;"Prominent Chourasia Revanta";"Krishnarajapura";"Prominent Infra";"Possession in 2024";"1450 - 1933 sqft";"1158 - 1381 sqft";5.0;5790000.0;7250000.0
+196;6;"Birla Trimaya";"Devanahalli";"Birla Estates";"Possession in 2027";"1345 - 1550 sqft";"1150 - 1245 sqft";9.0;6610000.0;7730000.0
+197;7;"RR Wish Tales";"Jakkur";"MSR Infraa";"Possession in 2027";"769 - 819 sqft";"489 - 516 sqft";5.0;5000000.0;7800000.0
+198;8;"LAVIVANT";"Sarjapura";"ATCO PROJECTS PRIVATE LIMITED";"Possession in 2026";"1242 - 1327 sqft";"945 - 1156 sqft";0.0;9700000.0;9540000.0
+199;9;"Prestige Park Grove";"Whitefield";"Prestige Estates Projects Ltd.";"Possession in 2027";"1760 - 1833 sqft";"1364 - 1619 sqft";1.0;10600000.0;13900000.0
+200;10;"Elegant Hermitage";"Uttarahalli Hobli";"Elegant Builders and Developers";"Possession in 2025";"2507 - 3997 sqft";"2572 - 2709 sqft";9.0;15400000.0;15000000.0
+201;11;"Sarang By Sumadhura Phase I";"Whitefield";"Sumadhura Infracon Pvt. Ltd.";"Possession in 2026";"3739  sqft";"658  sqft";10.0;6100000.0;9500000.0
+202;12;"Aurum At Brigade El Dorado";"Bagalur Main Road";"Brigade Group";"Possession in 2027";"2133 - 3500 sqft";"1400 - 1837 sqft";4.0;14000000.0;21000000.0
+203;13;"2 Oakland Estates";"Devanahalli";"DEAMANTE PROPERTIES";"Possession in 2024";"1175 - 1332 sqft";"3300  sqft";2.0;32500000.0;9170000.0
+204;14;"The Grand Strand Address";"Hoodi, Hoodi";"Address Maker";"Possession in 2030";"1654 - 1920 sqft";"1556 - 1719 sqft";5.0;11900000.0;16400000.0
+205;15;"Pride Altius";"Tumkur Road";"Pride Group";"Possession in 2026";"938 - 975 sqft";"2135 - 2580 sqft";1.0;21500000.0;6070000.0
+206;16;"Shivadhanush";"Hoskote";"Sowparnika Projects &amp; Infrastructure Pvt. Ltd.";"Possession in 2027";"2800 - 3310 sqft";"971 - 1562 sqft";0.0;6200000.0;28000000.0
+207;17;"DB Lakven Visishta";"Kadugodi";"DB Infra Developers";"Possession in 2024";"1526 - 2129 sqft";"1213 - 1217 sqft";3.0;13900000.0;17500000.0
+208;18;"Abhee Srishti Layout";"Anekal";"Abhee Ventures Pvt. Ltd.";"Possession in 2023";"1100 - 1233 sqft";"671 - 900 sqft";3.0;7490000.0;12500000.0
+209;19;"Sree Urban Orchids Phase II";"Panathur";"Sree Builders and Developers";"Possession in 2025";"1240 - 1792 sqft";"1089 - 1324 sqft";6.0;6320000.0;7190000.0
+210;20;"Sree Urban Orchids Phase II";"Panathur";"Sree Builders and Developers";"Possession in 2025";"1180 - 1260 sqft";"1050 - 6000 sqft";7.0;2600000.0;6860000.0
+211;21;"Sree Urban Orchids Phase II";"Panathur";"Sree Builders and Developers";"Possession in 2025";"2200  sqft";"1460 - 1865 sqft";4.0;8540000.0;12800000.0
+212;0;"Parleshwar Aangan";"Vile Parle East";"Panom Developers LLP";"Possession in 2025";"676 - 680 sqft";"440 - 450 sqft";5.0;16800000.0;26100000.0
+213;1;"Atharv Aaradhyam";"Vile Parle East";"Atharv Infra LLP";"Possession in 2025";"1360  sqft";"900  sqft";8.0;34300000.0;52400000.0
+214;2;"Lodha Vero";"Sion";"Lodha Group";"Possession in 2028";"847 - 855 sqft";"678 - 705 sqft";9.0;24400000.0;30400000.0
+215;3;"Agastya Signature";"Vikhroli East";"Agastya Developers";"Possession in 2026";"1800  sqft";"1535  sqft";9.0;55600000.0;86000000.0
+216;4;"Kabra Garnet";"Malad West";"Kabra Group";"Possession in 2026";"363 - 388 sqft";"2180  sqft";8.0;104000000.0;6430000.0
+217;5;"Luma";"Andheri East";"The Dynamix Group";"Possession in 2025";"423  sqft";"614 - 650 sqft";5.0;11500000.0;12000000.0
+218;6;"NG Platinum City";"Vasai East";"RNA NG Builders";"Possession in 2024";"828 - 911 sqft";"515 - 690 sqft";9.0;13400000.0;21900000.0
+219;7;"Dem Icon";"Charkop Gaon";"DEM Infra";"Possession in 2026";"1122 - 1124 sqft";"624  sqft";9.0;16900000.0;29900000.0
+220;8;"Chandak Nostalgia";"Malad West";"Chandak Group";"Possession in 2027";"421  sqft";"435 - 950 sqft";9.0;3500000.0;9280000.0
+221;9;"Veena Passcode Everything";"Malad";"Veena Developers";"Possession in 2025";"718 - 744 sqft";"563 - 684 sqft";3.0;13200000.0;19700000.0
+222;10;"Shraddha West Residency";"Jogeshwari East";"Shraddha Buildcon Pvt Ltd";"Possession in 2025";"436  sqft";"1019 - 1068 sqft";9.0;27000000.0;12200000.0
+223;11;"Nicco Residency";"Jogeshwari East";"Neelkamal Realty &amp; Construction LLP";"Possession in 2026";"923  sqft";"683  sqft";8.0;19100000.0;25900000.0
+224;12;"Tricity Natraj";"Chembur";"Tricity Reality Pvt. Ltd.";"Possession in 2025";"772 - 826 sqft";"332 - 335 sqft";10.0;7300000.0;19900000.0
+225;13;"Sumit Gurukrishna";"Vile Parle East";"Sumit Woods Pvt. Ltd.";"Possession in 2024";"1671  sqft";"1002 - 1228 sqft";1.0;26000000.0;43200000.0
+226;14;"JP North Aviva";"Mira Road East";"JP Infra";"Possession in 2026";"740 - 1110 sqft";"740  sqft";9.0;21800000.0;34800000.0
+227;15;"Puri SeleQt";"Andheri East";"PURI CREATORS";"Possession in 2025";"871  sqft";"666 - 714 sqft";9.0;29700000.0;42300000.0
+228;16;"Raheja Residency";"Malad East";"K. Raheja Realty";"Possession in 2027";"710 - 860 sqft";"310 - 410 sqft";10.0;5000000.0;21000000.0
+229;17;"Marathon Neovalley Narmada Wing B";"Bhandup West";"Marathon Realty Pvt. Ltd.";"Possession in 2028";"730  sqft";"1165 - 1188 sqft";4.0;32000000.0;19500000.0
+230;18;"Sunteck Sky Park";"Mira Bhayandar Road";"Sunteck Realty Ltd.";"Possession in 2026";"175  sqft";"247 - 338 sqft";10.0;5000000.0;3200000.0
+231;19;"Sunteck Sky Park";"Mira Bhayandar Road";"Sunteck Realty Ltd.";"Possession in 2026";"948 - 1040 sqft";"665 - 702 sqft";4.0;11200000.0;15700000.0
+232;20;"Sunteck Sky Park";"Mira Bhayandar Road";"Sunteck Realty Ltd.";"Possession in 2026";"850  sqft";"560 - 710 sqft";7.0;12900000.0;19900000.0
+233;0;"Gold Crest";"Kandivali West";"Shraddha Prime Projects LTD";"Possession in 2027";"598  sqft";"406  sqft";3.0;9400000.0;14200000.0
+234;1;"Adityaraj Shivraj";"Vikhroli East";"Adityaraj Group";"Possession in 2027";"533  sqft";"397 - 419 sqft";8.0;6900000.0;11000000.0
+235;2;"Adityaraj One";"Vikhroli East";"Adityaraj Group";"Possession in 2026";"341 - 512 sqft";"610  sqft";5.0;12000000.0;5990000.0
+236;3;"Luxuria";"Mira Road East";"Vihang Group  &amp; Reyanshp Realty LLP";"Possession in 2027";"467  sqft";"620 - 645 sqft";0.0;9200000.0;12500000.0
+237;4;"Paranjape Aspire";"Andheri West";"Paranjape Schemes Construction Ltd.";"Possession in 2027";"934  sqft";"630  sqft";2.0;16800000.0;24500000.0
+238;5;"Shri Siddhivinayak By DEM";"Kandivali West";"DEM Infra";"Possession in 2026";"832  sqft";"611 - 632 sqft";2.0;14500000.0;25000000.0
+239;6;"Sardar Inspire Residency";"Andheri East";"Sardar Realty";"Possession in 2025";"571 - 578 sqft";"418 - 428 sqft";6.0;11000000.0;15100000.0
+240;7;"DEM Phoenix";"Malad East";"DEM Infra";"Possession in 2025";"520 - 570 sqft";"320 - 378 sqft";6.0;6720000.0;10900000.0
+241;8;"Paranjape Athena";"Bandra East";"Paranjape Schemes Construction Ltd.";"Possession in 2027";"854  sqft";"616  sqft";4.0;25400000.0;34800000.0
+242;9;"Palkhi Mrda";"Kandivali East";"Palkhi Realty";"Possession in 2026";"590 - 615 sqft";"692 - 713 sqft";9.0;17000000.0;11500000.0
+243;10;"Veena Smart Homes";"Kandivali West";"Veena Developers";"Possession in 2023";"691 - 699 sqft";"415 - 424 sqft";9.0;11400000.0;16900000.0
+244;11;"Passcode Mumbai Wants To Know";"Andheri East";"Veena Developers";"Possession in 2025";"890  sqft";"879  sqft";0.0;21000000.0;40000000.0
+245;12;"Rustomjee Aden";"Bandra East";"Keysky Realtors Pvt Ltd";"Possession in 2026";"890  sqft";"879  sqft";3.0;21000000.0;40000000.0
+246;13;"BLA Business Park ";"Goregaon East";"Elegant Builders and Developers";"Possession in 2026";"890  sqft";"879  sqft";1.0;21000000.0;40000000.0
+247;0;"Pride Panorama";"Andheri East";"Pride Group";"Possession in 2025";"658 - 824 sqft";"460 - 622 sqft";6.0;12300000.0;17000000.0
+248;1;"Lodha Divino";"Matunga East";"Lodha";"Possession in 2026";"820  sqft";"840 - 928 sqft";7.0;21400000.0;35900000.0
+249;2;"VS Royale 22";"Vikhroli East";"VS Developers";"Possession in 2025";"1727  sqft";"1227 - 1331 sqft";10.0;51500000.0;73500000.0
+250;3;"Godrej Five Gardens";"Matunga";"Godrej Properties";"Possession in 2028";"599  sqft";"435  sqft";5.0;11000000.0;15000000.0
+251;4;"Godrej Bliss";"Kandivali East";"Godrej Properties";"Possession in 2028";"1496  sqft";"1036  sqft";4.0;25000000.0;95000000.0
+252;5;"Oxford Navrang Crystal";"Goregaon West";"Oxford Group";"Possession in 2025";"944 - 976 sqft";"688  sqft";10.0;16200000.0;22500000.0
+253;6;"Raveshia Aryana Heights";"Ghatkopar East";"Raveshia Realty";"Possession in 2026";"541 - 672 sqft";"636 - 656 sqft";5.0;15200000.0;12800000.0
+254;7;"Eastsyde";"Ghatkopar East";"Vaibhavlaxmi Builders &amp; Developers";"Possession in 2024";"657 - 730 sqft";"365  sqft";9.0;8500000.0;16500000.0
+255;8;"Promesa Midtown";"Ghatkopar East";"Promesa Realty";"Possession in 2024";"361 - 419 sqft";"305  sqft";1.0;20000000.0;7900000.0
+256;9;"Ornate Solitaire";"Dahisar East";"Ornate Universal";"Possession in 2027";"680 - 705 sqft";"598  sqft";1.0;13700000.0;15200000.0
+257;10;"Vivan";"Goregaon West";"Goregaon Electrical Industries LLP";"Possession in 2026";"680 - 705 sqft";"598  sqft";6.0;13700000.0;15200000.0
+258;11;"Sheetal Regalia";"Borivali East";"DGS Group";"Possession in 2028";"680 - 705 sqft";"598  sqft";4.0;13700000.0;15200000.0
+259;12;"Beautiful NL Krishna";"Dahisar East";"NLPL";"Possession in 2025";"680 - 705 sqft";"598  sqft";7.0;13700000.0;15200000.0
+260;13;"Meghna Ashraya";"Goregaon East";"Shakti Constructions";"Possession in 2025";"680 - 705 sqft";"598  sqft";1.0;13700000.0;15200000.0
+261;0;"Sahyadri Plumeria";"Borhade Wadi";"Sahyadri Landmarks";"Possession in 2026";"993  sqft";"780  sqft";6.0;5800000.0;7900000.0
+262;1;"Samrajya";"Pimple Gurav, Pimpri Chinchwad";"Garve Patil Constructions";"Possession in 2026";"1040  sqft";"800  sqft";8.0;8500000.0;11000000.0
+263;2;"Godrej Hillside";"Mahalunge";"Godrej Properties";"Possession in 2026";"680  sqft";"458  sqft";0.0;3800000.0;7000000.0
+264;3;"5 Maidan by Skyi";"Baner";"Enerrgia Skyi Ventures";"Possession in 2026";"1700 - 1802 sqft";"877 - 950 sqft";6.0;9500000.0;22900000.0
+265;4;"Rohan Nidita";"Hinjawadi";"Rohan Builders &amp; Developers Pvt. Ltd.";"Possession in 2026";"751 - 984 sqft";"541 - 642 sqft";7.0;6030000.0;7640000.0
+266;5;"Vivencia";"Koregaon Park";"VMond Realty";"Possession in 2026";"890  sqft";"1024 - 1191 sqft";0.0;10300000.0;22500000.0
+267;6;"Palladio Kharadi Central";"Kharadi";"Vilas Javdekar Developers";"Possession in 2026";"1552 - 1766 sqft";"1278 - 1323 sqft";6.0;31600000.0;38000000.0
+268;7;"Itrend Futura";"Mahalunge";"Saheel Properties &amp; Kohinoor Developers";"Possession in 2028";"1030 - 1080 sqft";"755 - 830 sqft";4.0;10000000.0;15000000.0
+269;8;"Gera World of Joy";"Kharadi";"Gera Developments Pvt. Ltd.";"Possession in 2026";"770 - 776 sqft";"1315  sqft";7.0;17500000.0;7850000.0
+270;9;"Rohan Abhilasha 3";"Wagholi";"Rohan Builders &amp; Developers Pvt. Ltd.";"Possession in 2027";"714 - 877 sqft";"1115 - 1120 sqft";5.0;11200000.0;7300000.0
+271;10;"Mirai Phase I";"Punawale, Pimpri Chinchwad";"GK Associates &amp; Aishwaryam Group";"Possession in 2026";"1550  sqft";"1100 - 1250 sqft";6.0;8800000.0;18100000.0
+272;11;"Sentosa Pride";"Punawale, Pimpri Chinchwad";"Sentosa Developers";"Possession in 2026";"776 - 875 sqft";"435  sqft";5.0;3610000.0;6330000.0
+273;12;"Lodha Panache";"Hinjawadi";"Lodha";"Possession in 2026";"1020  sqft";"719  sqft";6.0;6000000.0;9000000.0
+274;13;"Sense 66";"Talegaon Dabhade";"Tata Value Homes";"Possession in 2026";"1237 - 1277 sqft";"860 - 917 sqft";7.0;6950000.0;9700000.0
+275;14;"Lake Bliss";"Kusgaon PM";"Life Reality";"Possession in 2023";"1122 - 1133 sqft";"862 - 875 sqft";9.0;9270000.0;12400000.0
+276;15;"Vantage Twenty One";"Pimple Saudagar, Pimpri Chinchwad";"Yashada Realty Group";"Possession in 2024";"878  sqft";"1744  sqft";7.0;20000000.0;11200000.0
+277;16;"Address One";"Bibwewadi";"Ram India Group";"Possession in 2026";"3228 - 21520 sqft";"1235  sqft";2.0;16200000.0;4840000.0
+278;17;"Gagan Myra";"Kondhwa";"Gagan Developers";"Possession in 2027";"3228 - 21520 sqft";"1235  sqft";4.0;16200000.0;4840000.0
+279;18;"BA Swadesha";"Moshi";"Bhandari Associates";"Possession in 2025";"3228 - 21520 sqft";"1235  sqft";4.0;16200000.0;4840000.0
